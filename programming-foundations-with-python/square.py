@@ -1,3 +1,4 @@
+
 # drawing a square
 # turtle graphics
 # open window
@@ -5,20 +6,42 @@
 
 import turtle
 
-def draw_square():
-    window = turtle.Screen()
-    window.bgcolor("red")
-    
+def brad_turtle():
     brad = turtle.Turtle()
-    brad.forward(100)
-    brad.right(90)
-    brad.forward(100)
-    brad.right(90)
-    brad.forward(100)
-    brad.right(90)
-    brad.forward(100)
-    brad.right(90)
+    brad.shape("arrow")
+    brad.color("blue")
+    brad.speed("slow")
 
-    window.exitonclick()
+    for i in [0, 1, 2, 3]:
+        brad.forward(100)
+        brad.right(90) #angle
+
+brad_turtle()
+
+def angie_turtle():
     
-draw_square()
+    angie = turtle.Turtle()
+    angie.shape("circle")
+    angie.color("yellow")
+    angie.speed("slow")
+    angie.circle(100)
+
+angie_turtle()
+
+def carl_turtle():
+
+    carl = turtle.Turtle()
+    carl.shape("arrow")
+    carl.color("green")
+    carl.speed("slow")
+
+    for i in [0, 1, 2]:
+        carl.forward(200)
+        carl. left(120) #angle
+
+carl_turtle()
+
+
+window = turtle.Screen()
+window.bgcolor("black")
+window.exitonclick()
