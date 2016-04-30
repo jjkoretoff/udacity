@@ -12,6 +12,8 @@
 
 #can always use pwd
 
+#git log shows the saved versions
+
 suggested questions for reflection:
 
 How did viewing a diff between two versions of a file help you see the bug that
@@ -38,13 +40,13 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    by typing the commands in the command line for a specified project, you can view when certain changes were made
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    It enables the user to experiment without the fear of spending numerous hours going back and readjusting the changes
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    I will conntinue to use it for educational projects and work.. when I get there
