@@ -1,0 +1,5 @@
+Now that you've learned about some version control systems, and how they can help you save the history of a file, go add the following question and your thoughts on it to your reflections file:
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+
+Having access to the entire history is going to enable coders to come in at different potints along the project and see how it is evolved. It makes the entire coding process much more efficient for individuals and organizations as they work through numerous tasks. COmmands like diff and log enable the coder to access thte history at different points in time to see what has been changed.
