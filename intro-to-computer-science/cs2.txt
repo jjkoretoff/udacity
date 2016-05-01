@@ -1,1 +1,47 @@
 notes for lesson 2
+
+procedures - package code to reuse
+control - repetition
+
+procedural abstraction - write code once and repeat
+
+procedure takes inputs and produces outputs
+  + is an operator but similar in concept
+  def<name>(<parameters or inputs>):
+      <block or sequence of statemetns>
+
+use a procedure:
+<procedure>(<inputs>)
+
+procedure compositon - use the result as input to next
+
+making decisions with comparison operators
+<number> <operator> <number>
+    output is a boolean of TRUE or FALSE
+
+commands :
+    <
+    >
+    ==
+    !=
+    <=
+    >=
+
+if statements test the block
+
+if <test expression>:
+    <block>
+
+also,
+
+if <test exp>:
+    <block>
+else:
+    <block>
+
+** also use elsif
+
+or the "or" operator
+
+example:
+    return name[0] == 'D' or name[0] == 'N'
