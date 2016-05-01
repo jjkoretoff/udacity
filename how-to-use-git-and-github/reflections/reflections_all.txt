@@ -24,4 +24,8 @@ How is the staging area different from the working directory and the repository?
     
     a staging area prepares the files to be commited and it is different because it is temporary
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+    you can add one file to the staging area at a time and commi them separately to create a logical work flow
+
 

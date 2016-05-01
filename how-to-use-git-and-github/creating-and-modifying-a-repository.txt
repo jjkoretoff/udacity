@@ -15,12 +15,29 @@ staging
 make a commit
   git commit -am ""
 
+write commit message as a command**
+
+making edits to asteroid:
+  git diff with no arguments shows any changes you make
+
+straight line commits vs branched
+    you can create labels - called "master" 
+    then there are subsequent
+    "detached head" - not in master
+    "tip" of branch = last commit
+    merging
+
+making a branch
 
 commands
     git init
     git add
     git status
     git commit -am ""
-    
+    git diff
+    git --staged
+    git reset --hard **be careful - not reverse
+
+
 
 
