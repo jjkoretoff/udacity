@@ -1,0 +1,3 @@
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+manual commits can be troublesome if you are forgetful; however, autosaving commits does not always happen at logical times within the development process. it is best to find a methodical solution so that you make commits at certain breaks and maintain the integrity of the development process

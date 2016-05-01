@@ -1,0 +1,19 @@
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    the interdependency of a git repo is probobaly greated than that of a google docs doc. each doc in google docs has the interrelated information. however, it can be troublesome when you are linked between mutliple files. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    once i have accessed a git repo by sing git clone and the respective url, i can then take a look at the versions
+
+    git log shows me the history of the repo and from there i can use git diff to compare any two versions to see the differences between each
+
+How might using version control make you more confident to make changes that could break something?
+    
+    version control enables experimentation because you know that you can reverse engineer the process and return back to a state at which the process worked
+
+Now that you have your workspace set up, what do you want to try using Git for?
+    
+    i will continue working on becoming a more efficient version controller
+
+

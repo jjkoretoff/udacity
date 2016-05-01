@@ -1,9 +1,0 @@
-#test
-
-#tools to automatically fid differences between
-#windows - FC
-#mac - diff -u
-
-#compare the new and old game in the file (location: Downloads)
-#in the command line: diff -u game_old.js game_new.js
-#find typo - "spacr" should be "space"

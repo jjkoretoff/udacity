@@ -1,0 +1,37 @@
+lesson 1
+
+tracking across files
+a good situation for tracking inerrelated files is when you are developing a website and have html and css files that impact the structure of the site\'s code
+
+git commit is a snapshot of a repo at each instance you commit code to the repo
+
+rep is a collection of files that are tracked by git 
+
+a git checkout resets all files to a previous state
+
+using the git commands w/ asteroids repo
+  git clone https://github.com/udacity/asteroids.git
+  cd asteroids/
+  git config --global color.ui auto
+  git log = find id that reverted controls
+  git diff f19cb1b (previous) b0678b1 (revrt controls) 
+
+solving problem with endless bullets
+  git checkout reverted controls
+    detached head state - if you make changes then issue
+  check index.html... bullets are working
+  git log = revert controls to top of list
+  git checkout to return to norm state **need last id***
+
+find where error happend
+
+configuring git:
+  
+
+commands:
+  git --stat = gives some stats about a commit 
+  git clone
+  git config
+  git log
+  git diff
+  git checkout
