@@ -1,0 +1,51 @@
+how to use the linux shell or a basic command lines
+
+programmable, efficient
+
+have to set up a virtual linux server - Linux virtual machine - VirtualBox with vagrant software
+
+https://www.virtualbox.org/wiki/Downloads
+
+https://www.vagrantup.com/downloads
+
+path for this project /Users/johnkoretoff/code/udacity/linux-command-line-basics/shell
+
+from there, type "vagrant up" in the command line
+then "vagrant ssh"
+
+** everytime you access the path for this class (ending in /shell) .... retype vagrant ssh to access the Ubuntu VM through vagrant 
+
+"exit" allows me to leave the shell
+
+if vagrant ssh doesnt work... vagrant up then retry
+
+terminal is an alternate interface 
+
+terminal vs the shell: 
+-terminal: output and input
+-shell: knows what to do
+
+unbuntu bash... etc
+
+you can see an apostrophe in output if you put a backslash before it 
+  example I\'m good \!
+
+
+
+Common commands:
+  ls = list files
+  curl = download file from the web
+  date = prints the current time and date
+  expr 2 + 2 = yields a result of 4, calculator
+  echo You rock = repeats You rock in output
+    echo means print
+  uname = tells us what operating system we are running
+    uname -a gives more information
+  hostname = prints vagrants VM's name 
+  host udacity.com = tells us udacity.com hosts, ip ad.
+  bash --version = version of bash shell we are running
+  history = what we have done
+  rm = deletes a file
+    rm -r deletes a directory or folder
+
+

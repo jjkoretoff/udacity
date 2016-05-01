@@ -1,0 +1,18 @@
+To make a new file, go into location with in the directory that you
+want to access and choose the editor as well as the name and style
+
+for instance: subl lesson_2_reflection.txt in the command line
+created this file... all that was left to do was add content and 
+save the contents so I could eventually push the contents to GitHub
+
+git commit 
+git log 
+
+view history of commits:
+git log gives id, author, message
+
+git diff compares two versions of a file by looking at the id
+example: git diff fasdfads431re adfasdf453124
+
+diff compares two commits so it "operates on"
+

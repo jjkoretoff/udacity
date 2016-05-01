@@ -1,0 +1,70 @@
+lesson 2
+
+.pem is a private key
+.sh is selected files of a shell script
+
+access shell history with current and past sections
+  control + r also works for this task
+
+using the manual is --- man
+
+by default doesnt show files that start with a .
+
+researching for commands through search engine
+
+ping 8.8.8.8 - control + c to stop ping
+
+sort (names) - control + d to execute
+
+
+Common commands:
+  ls = list files
+    ls -a = show all files (even those with a .)
+    ls -l = long listing
+  curl = download file from the web
+  date = prints the current time and date
+  expr 2 + 2 = yields a result of 4, calculator
+  echo You rock = repeats You rock in output
+    echo means print
+  uname = tells us what operating system we are running
+    uname -a gives more information
+  hostname = prints vagrants VM's name 
+  host udacity.com = tells us udacity.com hosts, ip ad.
+  bash --version = version of bash shell we are running
+  history = what we have done
+  rm = deletes a file
+    rm -r deletes a directory or folder
+  unzip = unzip a zipped file w/ one argument
+  cat = read out contents of a file w/ one argument
+  "tab" = auto completes as much as possible
+  wc = word count with argument-lines, words,bytes
+  diff = compares files w/ two arguments "<" or ">"
+     points in direction of file with change
+  man = manual with an argument [] means optional
+  q = allows you to exit
+  rm = remove 
+    rm -r = delete whole directory
+    rm -rf = delete without checking
+  ping = check a server
+  control + c = stops program from running
+  sort = sorts items
+  control + d = executes a sort type command
+  bc = calculator program
+  quit = allows you to exit
+  less = opens a file
+    arrow keys to scroll
+    space or d-key to go one page at a time
+    u is up one page at a time
+    > to the end
+    < to the beginning
+    type line number + enter for particular line
+    / + term = built in search
+      n = next occurence
+      N = previous occurence
+  vim, emacs, joe = text editors
+  nano = also text editor
+    commands at bottom an ^ means control
+    ^O = save file
+  
+
+

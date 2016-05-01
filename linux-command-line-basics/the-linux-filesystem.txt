@@ -1,0 +1,93 @@
+lesson 3
+
+learning how to deal with files and directories
+files and directories
+backslash treats as ordinary symbol
+linux uses a forward whereas windows uses backslash
+relative path gives location relative to current dir
+  relative paths dont start with a /
+  ../
+tab completion is hugggeee
+
+globbing is a pattern
+  match files by name
+  man glob
+  pattern matching
+
+globbing
+  *html = match html files
+  *s = ending in s
+  *pp* = pp in name
+  b*png = has b and is png
+  {} = match arguments inside
+  ? = matches any one character
+  ?? = matches teo characters
+  [] = match anything inside
+
+** always case sensitive ***
+
+
+Commands for file system:
+  pwd = print working directory
+  cd = change directory
+    cd .. = uptree to parent - up one
+  / = root directory
+  cwd = current working directory
+  ../ = relative path option
+  . = current
+  ~ = home
+  mv = move files - file you want and where
+  cp = copy files - name you want and where
+  creat = create files
+  mkdir = make new directory - give it path
+  rmdir = gets rid of an empty directory
+
+
+Common commands:
+  ls = list files
+    ls -a = show all files (even those with a .)
+    ls -l = long listing
+  curl = download file from the web
+  date = prints the current time and date
+  expr 2 + 2 = yields a result of 4, calculator
+  echo You rock = repeats You rock in output
+    echo means print
+  uname = tells us what operating system we are running
+    uname -a gives more information
+  hostname = prints vagrants VM's name 
+  host udacity.com = tells us udacity.com hosts, ip ad.
+  bash --version = version of bash shell we are running
+  history = what we have done
+  rm = deletes a file
+    rm -r deletes a directory or folder
+  unzip = unzip a zipped file w/ one argument
+  cat = read out contents of a file w/ one argument
+  "tab" = auto completes as much as possible
+  wc = word count with argument-lines, words,bytes
+  diff = compares files w/ two arguments "<" or ">"
+     points in direction of file with change
+  man = manual with an argument [] means optional
+  q = allows you to exit
+  rm = remove 
+    rm -r = delete whole directory
+    rm -rf = delete without checking
+  ping = check a server
+  control + c = stops program from running
+  sort = sorts items
+  control + d = executes a sort type command
+  bc = calculator program
+  quit = allows you to exit
+  less = opens a file
+    arrow keys to scroll
+    space or d-key to go one page at a time
+    u is up one page at a time
+    > to the end
+    < to the beginning
+    type line number + enter for particular line
+    / + term = built in search
+      n = next occurence
+      N = previous occurence
+  vim, emacs, joe = text editors
+  nano = also text editor
+    commands at bottom an ^ means control
+    ^O = save file
