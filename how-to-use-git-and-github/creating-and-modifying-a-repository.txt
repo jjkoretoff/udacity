@@ -1,0 +1,7 @@
+lesson 2
+
+hidden files start with a period
+  ls -a shows the hidden files
+
+making a new repo
+  

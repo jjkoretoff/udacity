@@ -26,6 +26,10 @@ solving problem with endless bullets
 find where error happend
 
 configuring git:
+  end of lesson 1
+
+PROBLEM SET
+
   
 
 commands:
