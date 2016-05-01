@@ -16,4 +16,7 @@ Now that you have your workspace set up, what do you want to try using Git for?
     
     i will continue working on becoming a more efficient version controller
 
+What happens when you initialize a repository? Why do you need to do it?
+  
+    initializing a repo allows you to start tracking files
 

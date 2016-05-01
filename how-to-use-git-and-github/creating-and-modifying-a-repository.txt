@@ -4,4 +4,15 @@ hidden files start with a period
   ls -a shows the hidden files
 
 making a new repo
-  
+  git init = initiates a new repo
+  git status = shows what has changed since last commit
+
+staging
+  add files to a staging area
+      git add 
+      git add .
+
+make a commit
+  git commit -am ""
+
+
