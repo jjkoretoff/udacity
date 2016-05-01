@@ -20,3 +20,8 @@ What happens when you initialize a repository? Why do you need to do it?
   
     initializing a repo allows you to start tracking files
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+    
+    a staging area prepares the files to be commited and it is different because it is temporary
+
+

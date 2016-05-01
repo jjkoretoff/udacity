@@ -16,3 +16,11 @@ make a commit
   git commit -am ""
 
 
+commands
+    git init
+    git add
+    git status
+    git commit -am ""
+    
+
+
