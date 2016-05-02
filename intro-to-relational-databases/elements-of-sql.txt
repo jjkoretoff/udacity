@@ -1,0 +1,81 @@
+lesson 2
+
+test query page:
+https://classroom.udacity.com/courses/ud197/lessons/3423258756/concepts/33885287060923
+
+#PROBLEM#
+# Try out this query! You'll see the results below.
+# You'll be seeing many more pages like this in the rest of this lesson.
+# For now, just test it out.
+
+QUERY = '''
+select name, birthdate from animals where species = 'gorilla';
+'''
+
+*** above query returns an output in the form of a table**
+
+see below:
++---------+------------+
+|    name |  birthdate |
++=========+============+
+|     Max | 2001-04-23 |
+|    Dave | 1988-09-29 |
+|   Becky | 1979-07-04 |
+|     Liz | 1998-06-12 |
+|  George | 2011-01-09 |
+|  George | 1998-05-18 |
+| Wendell | 1982-09-24 |
+|   Bjorn | 2000-03-07 |
+| Kristen | 1990-04-25 |
++---------+------------+
+
+data types in sql:
+    text - a string - llike a python string
+    integer - a number - like python int
+    date - a date - need single quotes necessary
+
+fulllist of data types:
+    http://www.postgresql.org/docs/9.4/static/datatype.html
+
+getting data - structure of the query:
+<keyword = select> <columns = column names> <keyword = 
+    from> <table = name of table>
+
+can use and as well as or
+
+#PROBLEM#
+# The query below finds the names and birthdates of all the gorillas.
+# 
+# Modify it to make it find the names of all the animals that are not
+# gorillas and not named 'Max'.
+#
+
+QUERY = '''
+select name, birthdate from animals where (not species = 'gorilla') and (not name = 'Max')
+'''
+
+OR
+
+QUERY = '''
+select name, birthdate from animals where not (species = 'gorilla' or name = 'Max')
+'''
+
+OR
+
+QUERY = '''
+select name, birthdate from animals where species != 'gorilla' and name != 'Max'
+'''
+
+#next
+comparison operators are the same
+
+#PROBLEM#
+#
+# Find all the llamas born between January 1, 1995 and December 31, 1998.
+# Fill in the 'where' clause in this query.
+
+QUERY = '''
+select name from animals where species = 'llamas' and birthdate >= '1995-01-01' and birthdate <= '1998-12-31'
+'''
+
+databases all operate differently

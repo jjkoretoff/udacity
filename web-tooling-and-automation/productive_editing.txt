@@ -1,0 +1,12 @@
+lesson 1 following intoduction
+
+install package control
+
+sublime editor
+command shortcuts:
+    command + t = search
+        @ or command + r = symbol search
+    command + alt + g = finds next instance
+    tab = expands full tag
+    command + d = next instance and doesnt clear 
+    command + control + g = selects all instances 
