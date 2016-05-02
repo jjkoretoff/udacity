@@ -183,3 +183,143 @@
 
 #NEXT#
 #PROBLEM#
+# Define a procedure, biggest, that takes three
+# numbers as inputs and returns the largest of
+# those three numbers.
+
+#def biggest(a, b, c):
+    #return max(a, b, c)
+#OR
+
+#def biggest(a, b, c):
+    #if a > b:
+        #if a > c:
+            #return a
+        #else:
+            #return c
+    #else:
+        #if b > c:
+            #return b
+        #else: 
+            #return c
+
+#OR
+
+#def bigger(a, b):
+    #if a > b:
+        #return a
+    #else:
+        #return b
+
+#def biggest(a, b, c):
+    #return bigger(bigger(a, b), c)
+        
+#print biggest(3, 6, 9)
+#>>> 9
+
+#print biggest(6, 9, 3)
+#>>> 9
+
+#print biggest(9, 3, 6)
+#>>> 9
+
+#print biggest(3, 3, 9)
+#>>> 9
+
+#print biggest(9, 3, 9)
+#>>> 9
+
+#NEXT#
+#EXAMPLE#
+
+#i = 0
+#while i < 10:
+    #print i
+    #i = i + 1
+
+#NEXT#
+#PROBLEM#
+
+#i = 0
+#while i != 10:
+    #i = i + 1
+    #print i
+# prints 1 through 10
+
+#NEXT#
+#PROBLEM#
+
+#i = 1
+#while i != 10:
+    #i = i + 2
+    #print i
+#runs infinitely - it skips 10
+#kill a program that runs infinitely by
+
+#NEXT#
+#PROBLEM#
+# Define a procedure, print_numbers, that takes
+# as input a positive whole number, and prints 
+# out all the whole numbers from 1 to the input
+# number.
+
+#def print_numbers(i):
+    #n = i - i 
+    #while n < i:
+        #n = n +1
+        #print n
+
+#OR
+
+#def print_numbers(n):
+    #i = 1
+    #while i <= n:
+        #print i
+        #i = i +1
+
+# Make sure your procedure prints "upwards", so
+# from 1 up to the input number.
+
+
+#print_numbers(3)
+#>>> 1
+#>>> 2
+#>>> 3
+
+#NEXT#
+#PROBLEM#
+# Define a procedure, factorial, that
+# takes one number as its input
+# and returns the factorial of
+# that number.
+
+#def factorial(n):
+    #if (n <= 1):
+        #return 1
+
+    #i = 1
+    #product = 1
+    #while(i <= n):
+        #product = product * i
+        #i = i + 1
+
+    #return product
+
+#OR
+
+#def #factorial(n):
+    #result = 1
+    #while n >= 1:
+        #result = result * n
+        #n = n - 1
+    #return result
+
+#print factorial(4)
+#>>> 24
+#print factorial(5)
+#>>> 120
+#print factorial(6)
+#>>> 720
+
+#NEXT#
+#PROBLEM#

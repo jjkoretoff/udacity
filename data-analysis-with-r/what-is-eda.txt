@@ -1,0 +1,35 @@
+Lesson 1
+
+Exploratory Data Analysis
+    collect, learn from, use data
+
+Data is Ubiquidous
+    data.gov
+    facebook
+    personal data collection
+    google trends - amnt of times a word appears in headline
+    fred
+    quandl
+
+Why learn EDA?
+    examination of data through numerical and graphical
+    first part of a larger process
+    feed into building predicitve models
+
+Investigating billions, trillions, etc rows of data
+    charts, maps, etc
+
+Goals of EDA
+    approach towards understanding data with visualization and statistical code
+
+    histograms, scatterplot, inference
+
+    developing intuition about the data set
+
+Always be curious and skeptical
+
+Coordinated migration: Aude
+    gather hometowns and current cities
+    probability that you live in a particular place
+    be surprised by results and test
+    d3 for visualization and interaction

@@ -98,6 +98,36 @@ Surveys are prone to issues
     respondents not understanding the question
     respondents refusing to answer
 
+Experiments
+    test sleep medication
+    random sample 
+        some with active and some with active
+            actual vs placebo
+    why use placebo?
+        creates a comparison group
+        blind to see results so they arent skewed  
+    double blind experiment
+        researcher and participant dont know which treatment was received - can influence results
+    sing blind experiment
+        on;y participant doesnt know
+
+Random Assignment
+    everyone has an equal chance of being assignmen
+    increases chance of control and experiment being =
+
+Memory tests: two for one person
+    lots of sleep
+    little sleep 
+
+    what is the control?
+        looking for variation in memory capability
+
+course focuses on observational studies
+
+Hand length - how tall am I if my hand is 6.75 inches?
+    guess: 65 inches
+    conclusion - people with longer hands tend to be taller
+
 
 
 
