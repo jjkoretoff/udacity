@@ -1,0 +1,96 @@
+Lesson 1
+
+What would you do to prepare for an exam?
+    %:
+    28 - eat a good dinner
+    42 - get a workout
+    1 - other
+    13 - good nights sleep
+    16 - stay up studying
+
+What information is necessary to know if survey is valid?
+    #How many people?
+    #Who was surveyed?
+    #How was the survey conducted?
+
+Make good decisions off of valid research
+
+Analyze relationship between memory and grade
+How would you measure memory?
+    I would measaure mememory from both long and short term perspectives. I would track the amount of sleep that the subjects got and compare that against their results on the memory tests.
+
+Defining constructs is not always straight-forward and there are many subjective ways that they can be measured. 
+
+BBC Memory test: Recognition Score and Temporal Mem Score
+    recog - faces seen before
+    temp - when face seen
+
+Sharing data through a google account
+
+How did BBC measure memory?
+    # The percent of faces correctly recognized and place from parts 1 and 2 of the test -- very exact
+
+Operational definition in mind in order to run tests and measure real world constructs. 
+
+Constructs:
+    All of the items below are constructs:
+        intelligence (IQ test)
+        effort (minutes, grades, GPA)
+        hunger (how often you want food)
+        itchiness (scratch duration)
+        age (not in years therefore it is a construct)
+
+Constructs have operational definitions that allow us to measure.
+
+Data
+    Most essential part of statistics - without it, statistics do not exist. 
+
+Memory Influencers
+    time of day - BIG INFLUENCE
+    breaks
+    age - BIG INFLUENCE
+    not paying attention
+    stress
+
+Data becomes more reliable with the more constants that appear in a test. Extraneous factors are "lurking" variables that influence the results of a test. 
+
+Statistics
+Within a population, not all averages of samples will be equal to the population.
+
+Population parameter = mu
+Population sample = x(bar)
+
+Can use x(bar) to estimate mu
+Difference between x(bar) and mu is the Sampling  error
+
+Better samples = smaller sampling error = better results
+
+Sample statistic can give us an inteval on which the population parameter lies
+
+Random sampling is thus important
+
+Visualizing data is an important attribute of data analysis
+    x-axis = independent variable or predictor
+    y-axis = dependent variable or the outcome
+    *can correlate but not necessarily cause*
+
+Correlation does not imply causation
+
+**golden arches theory of conflict prevention**
+    explanation: regulatory environment, westernization, etc
+
+Causal Inference
+show relationships = observational surveys
+show causation = controlled experiment
+    **course focused on this**
+
+Surveys
+    used in social and behavioral sciences
+    benefits
+        relatively inexpensive
+        conduct remotely
+        easy way to get population
+        anyone can access
+
+
+
