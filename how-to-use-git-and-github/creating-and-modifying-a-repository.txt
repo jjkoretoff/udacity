@@ -29,6 +29,74 @@ straight line commits vs branched
 
 making a branch
 
+making a branch in asteroid for "easy mode"
+    git branch = shows existing branches
+    git branch easy-mode = creates new branch
+    git branch = shows "master" and "easy-mode"
+        one with * is the branch currently in
+    git checkout easy-mode = switches branch
+    git branch = shows change in branch
+    subl game.js = opens file to make change
+        changed fragments to 2 instead of 3
+    git status
+    git add games.js
+    git commit -am "Make asteroids split into 2 smaller     pieces instead of 3"
+    git status
+
+new branch for a different piece of work: sharing publicly: master is always shown and doesnt break. experimental branch and developmental branches are useful. 
+
+common workflow 
+    new branch for each bug fix or feature
+    once it is complete and updates master or combines with current master
+
+back to asteroid - new coin feature
+    git checkout coins - remote branch - smby else made
+        game doesnt have color - need to update
+    git log = find commmits not by sarah    
+        latest commit was revert controls
+    git checkout master 
+    git log = shows newer commits than prev git log
+    git log --graph --oneline master coins
+        read lines indicate the branch 
+        picks back up with commits
+
+diagram
+    git log knows about its parent - stores tip
+reachability
+    some may not be reachable
+
+detached head - checkout commit not branch
+    head = current commit
+
+NOW COMBINE:
+incorporate changes in coin to master
+    example:
+        jake and rachel edit someting simult and have same versoin to start
+
+        jake: dbe
+        rachel: abcd
+
+        combine jake and rachel into one 
+        only lines that are the same should be in the final
+        different lines are unknown
+
+        original file: abd
+
+        figure out if line was added or not
+
+        then dont add a, add c and e
+
+now, merge coins and master
+    combine coin and master
+    use initial "revert controls" version with last version of coin and last version of master, you can decide how to combine the files into one working piece
+
+parent of the new commit is coin and master but it is also the tip of the new master branch
+
+when you merge, all commits are available and they are stored by timestamp
+
+executing the merge
+
+
 commands
     git init
     git add

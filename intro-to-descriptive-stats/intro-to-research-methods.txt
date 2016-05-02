@@ -92,5 +92,12 @@ Surveys
         easy way to get population
         anyone can access
 
+Surveys are prone to issues
+    untruthful responses
+    biased responses
+    respondents not understanding the question
+    respondents refusing to answer
+
+
 
 

@@ -28,4 +28,13 @@ How can you use the staging area to make sure you have one commit per logical ch
 
     you can add one file to the staging area at a time and commi them separately to create a logical work flow
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+    
+    when you are creating different versions of a game like we did in the asteroid game as well as when we are testing out new possibilities. if we are testing, we dont want to necessarily use version control methods of git log and git diff because that becomes more tediuous. by creating a new branch we are free to explore new ideas without hurting the integrity of the existing program
+
+How do the diagrams help you visualize the branch structure?
+
+    diagrams help you to conceptualize where you are in the commit process and how to move about the commit logs
+
+
 
