@@ -16,3 +16,8 @@ Problem set for lesson one
 21. Random samples should broadly reflect pop
 22. Random samples are less biased and rep pop
 23. Questions concerning sampling and population
+26. Contruct -> operational definition -> prediciton
+33. In an experiment, the researcher manipulates the INDEPENDENT variable, measures changes in the DEPENDENT variable, and seeks to control the LURKING variables. 
+36. Small sample can cause non-reponse bias, inaccurate responses which causes the sample to not be representative.
+37. Experimental studies allow for causal conclusions
+38. Sleep experiment: pill was independent and success was determined by separation between pill and placebo patients on 10 point scale

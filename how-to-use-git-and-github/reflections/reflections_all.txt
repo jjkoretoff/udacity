@@ -36,5 +36,11 @@ How do the diagrams help you visualize the branch structure?
 
     diagrams help you to conceptualize where you are in the commit process and how to move about the commit logs
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+    
+    the result of merging the two frames was that we implemented the changes from the coin branch to the master branch and made these changes to be the tip of the commit tree. diagrams are helpful in understanding where we are in the work flow and how to best organize the project development
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+    
+    it helps the workflow
 

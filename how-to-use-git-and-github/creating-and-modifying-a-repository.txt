@@ -95,8 +95,43 @@ parent of the new commit is coin and master but it is also the tip of the new ma
 when you merge, all commits are available and they are stored by timestamp
 
 executing the merge
+    git merge master coins - leave message
+    git log - shows the merge happened
+now test to see if it worked
+    git diff - show all changes 
+    git show - diff between commit and parent
+    git branch -d coins = deletes label, not commt
 
+make coins yellow
+    git log - find color commit
+    git show - add commit of color
+    git log
+    git diff before coins with coins
 
+go into game.js
+    find function, add lines for color 
+
+conflict detection and determining the proper version fo a particular line to be implemented in the final version
+
+merge easy-mode and master
+    dont want to put easy-mode to master but do want master to easy mode (color and coins)
+
+execute merge
+    git checkout easy-mode
+    git merge master east-mode
+        CONFLICT - manually resolve in game.js
+            look for special specifications
+
+resolve conflict in the file then back to git
+    git status
+    git add game.js
+    git status
+    git log
+    git log -n 1 = only show one commit
+
+lesson 2 summary: 
+    
+    
 commands
     git init
     git add
@@ -105,6 +140,7 @@ commands
     git diff
     git --staged
     git reset --hard **be careful - not reverse
+    git show = shows difference between commit and parnt
 
 
 

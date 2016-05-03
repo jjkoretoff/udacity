@@ -91,3 +91,27 @@ def print_numbers(n):
         print i
         i = i + 1
 
+multiple assignment
+  write code to extract all urls
+
+creating the multiple assignment procdure
+  define a procedure 
+  can have multiple names on one side of an = and any number of expressions as long as both sides are equal
+  ex:
+        a, b = 1, 2
+        assigns a = 1 and b = 2
+
+page = (contents of a page go here)
+start_link = page.find('<a href=')
+start_quote = page.find('"', start_link)
+end_quote = page.find('"', start_quote + 1)
+url = page[start_quote + 1 : end_quote]
+print url
+
+def get_next_target(page):
+    start_link = page.find('<a href=')
+    start_quote = page.find('"', start_link)
+    end_quote = page.find('"', start_quote + 1)
+    url = page[start_quote + 1 : end_quote]
+    return url, end_quote
+
