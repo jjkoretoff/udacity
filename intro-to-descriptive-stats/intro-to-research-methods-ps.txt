@@ -13,4 +13,6 @@ Problem set for lesson one
 16. Hypotheses are subject to testing and not necessarily T
 17. Extraneous (or lurking) variables must be considered
 18. x(bar) is the sample avg, mu is the population avg
-21. 
+21. Random samples should broadly reflect pop
+22. Random samples are less biased and rep pop
+23. Questions concerning sampling and population
