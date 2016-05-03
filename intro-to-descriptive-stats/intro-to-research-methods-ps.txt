@@ -1,1 +1,16 @@
 Problem set for lesson one
+
+1. Population is an entire set <mu>
+2. Sample is a samller selction of a population<x(bar)>
+3. Samples produce statistics
+6. Parameters describe the population
+7. Sampling error is the difference between mu and x(bar)
+9. Random samples are more likely to represent the pop
+10. Constructs do not have a specified unit of measurement
+12. Operational definitions turn constructs into measurable variables and are used to desribe variables in terms of measurement. 
+13. We expect samples to not fully reflect the population
+14. Variables change and constants stay the same.
+16. Hypotheses are subject to testing and not necessarily T
+17. Extraneous (or lurking) variables must be considered
+18. x(bar) is the sample avg, mu is the population avg
+21. 
