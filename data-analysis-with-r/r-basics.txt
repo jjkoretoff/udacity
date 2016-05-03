@@ -1,1 +1,38 @@
 Lesson 2
+
+shows how to download the R programming language
+
+The Power of R
+Corey Nissen analyzed tweets 
+    real-time analysis and automated
+    R package: textcat and algo on n-grams
+    10 - 20 tweets for review
+
+AUC, ROC, TPR
+ROC is a Receiving Operating Characteristic and is a visual way for inspecting the performance of a binary classifier(0/1)
+    rate at which your classifier is making correct predicitons
+        True Positives (TP) or FP
+        ROC was used in ww2 to detect radar effectiveness
+How they work:
+    diagonal line = 50% correct
+    perfect = TPR of 1 and FPR of 0
+AUC = area under the curve
+    1 = good
+    0 = bad
+    scikit-learn calculates roc curve in python
+
+Why R
+    leading language for statistics and analysis
+    line by line
+    easily share work
+    package ecosystem
+        ggplot2 - graphics package
+    active community
+    free and open source
+
+RStudio Layout
+    IDE
+    point and click system
+    scripts, consol, env/history
+
+Demistifying R
