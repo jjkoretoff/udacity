@@ -325,11 +325,96 @@
 #PROBLEM#
 #this is multiple assignment
 
+#def get_next_target(page):
+    #start_link = page.find('<a href=')
+    #start_quote = page.find('"', start_link)
+    #end_quote = page.find('"', start_quote + 1)
+    #url = page[start_quote + 1 : end_quote]
+    #return url, end_quote
+
+#url, endpos = get_next_target('this is a <a href="http://udacity.com".link!</a>')
+#print url
+#print endpos
+
+#test with no link
+#url, endpos = get_next_target('good')
+#print url
+#print endpos
+
+#CONTINUATION TO FIX OUTPUT WITH NO LINK#
+#NEXT PORBLEM#
+# Modify the get_next_target procedure so that
+# if there is a link it behaves as before, but
+# if there is no link tag in the input string,
+# it returns None, 0.
+
+# Note that None is not a string and so should
+# not be enclosed in quotes.
+
+# Also note that your answer will appear in
+# parentheses if you print it.
+
+#def get_next_target(page):
+    #start_link = page.find('<a href=')
+
+    #if start_link == -1:
+        #return None, 0
+    
+    #start_quote = page.find('"', start_link)
+    #end_quote = page.find('"', start_quote + 1)
+    #url = page[start_quote + 1 : end_quote]
+    #return url, end_quote
+
+#url, endpos = get_next_target('good')
+#if url:
+    #print "Here!"
+#else:
+    #print "Not here!"
+
+#test with no link
+#url, endpos = get_next_target('good')
+#print url
+#print endpos
+
+#NEXT#
+#PROBLEM#
+#def print_all_links(page):
+    #while True:
+        #url, endpos = get_next_target(page)
+        #if url:
+            #print url
+            #page = page[endpos:]
+        #else:
+            #break
+
+#print_all_links('this <a href="test1">link 1</a> is a <a href="test2">link 2</a> a <a href="test3"link 3</a>')
+
+#IN CONCLUSION#
+def get_page(url):
+    try:
+        import urllib
+        return urllib.urlopen(url).read()
+    except:
+        return ""
+        
 def get_next_target(page):
     start_link = page.find('<a href=')
+
+    if start_link == -1:
+        return None, 0
+    
     start_quote = page.find('"', start_link)
     end_quote = page.find('"', start_quote + 1)
     url = page[start_quote + 1 : end_quote]
     return url, end_quote
 
-print get_next_taraget('this is a <a href="http://udacity.com".link!</a>')
+def print_all_links(page):
+    while True:
+        url, endpos = get_next_target(page)
+        if url:
+            print url
+            page = page[endpos:]
+        else:
+            break
+
+print_all_links(get_page('https://www.eia.gov/petroleum/supply/weekly/'))
