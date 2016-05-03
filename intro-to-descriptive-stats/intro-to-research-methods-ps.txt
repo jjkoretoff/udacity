@@ -3,21 +3,50 @@ Problem set for lesson one
 1. Population is an entire set <mu>
 2. Sample is a samller selction of a population<x(bar)>
 3. Samples produce statistics
+4. Statistics are numbers that describe samples
+5. Finding the average weight change for frosh was a stat. The independent variable would be the year in college and the dependent variable would be weight change.
 6. Parameters describe the population
 7. Sampling error is the difference between mu and x(bar)
+8. A sample satistic produces a sampling error from the population parameter
 9. Random samples are more likely to represent the pop
 10. Constructs do not have a specified unit of measurement
+11. Things that are not constructs have specified units of measurement.
 12. Operational definitions turn constructs into measurable variables and are used to desribe variables in terms of measurement. 
 13. We expect samples to not fully reflect the population
 14. Variables change and constants stay the same.
+15. Statements about relationships between variables are called hypotheses. 
 16. Hypotheses are subject to testing and not necessarily T
 17. Extraneous (or lurking) variables must be considered
 18. x(bar) is the sample avg, mu is the population avg
+19. n is used to represent the sample size
+20. When a researcher reports that she measured the ages in years of n = 50, that means: there were 50 people in her same, she collected 50 ages, and "age in years" is her operational definiton of "age."
 21. Random samples should broadly reflect pop
 22. Random samples are less biased and rep pop
 23. Questions concerning sampling and population
+24. Mistaking correlation for causation and ignoring lurking variables represent two research errors.
+25. Small datasets can also lead to misrepresentation
 26. Contruct -> operational definition -> prediciton
+27. Bilingual vs english only - method = independent and result = dependent
+28. Reading score on test is dependent 
+29. The extreme temperature changes in the test represent a lurking variable that may have influenced the result
+30. The operational definition of teaching method was english vs bilingual
+31. The operational definition of reading scores was the result of the test that was administered to the different groups. 
+32. Because of the extraneous variable in the test, we have to void the results and reanalyze at a different point.
 33. In an experiment, the researcher manipulates the INDEPENDENT variable, measures changes in the DEPENDENT variable, and seeks to control the LURKING variables. 
+34. The independent variable in the african pouched rat case is the procedure of rewarding correct responses and not rewarding incorrect responses. 
+35. The dependent variable in the case was the number of eplosives detected and the meters cleared. If the reward system worked, it would show an increase in the number of explosives detected.
 36. Small sample can cause non-reponse bias, inaccurate responses which causes the sample to not be representative.
 37. Experimental studies allow for causal conclusions
 38. Sleep experiment: pill was independent and success was determined by separation between pill and placebo patients on 10 point scale
+39. The SAD test independent variable was the test they were assigned and the dependent variable was their score on the depression test. 
+40. Random assignmment in the SAD test decreased the probability of lurking variables. 
+41. The placebo control group is a group that is equal to the treatment groups in all respects except that they do not receive treatment in the experiment. 
+42. Including a placebo control helps to identify potential lurking variables. 
+43. The dawn simulation has a different operational definition than bright light therapy in that the dawn simulation is defined as lower light levels (lux) for onger exposures at an earlier time of day. 
+44. The 95 participants in the sad experiment represent a sample. 
+45. about 35% of participants were exposed to bright light in the experiment. 
+46. The study was blind in that the therapist was unaware of which therapy a patient received. 
+47. A carefully controlled experiment allows for te creation of causal realtionships so the findings that dawn simulation helped people struggling with SAD is considered causal. 
+48. This was experimental, so it is causal. 
+49. Independent is type of treatment and dependent is score on hamilton rating scale. 
+50. Depression study: exercise and zoloft out performed the placebo group. The operational definition of depression was the score on the depression test. The operational definition of exercise was aerobic exercise three times per week. 
