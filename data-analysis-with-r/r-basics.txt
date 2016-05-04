@@ -65,3 +65,4 @@ R Markdown Documents
     command + option + i adds chunks
     insert r code, plots, etc
     ** clicking knit html**
+    edits done to demistifying r part 2
