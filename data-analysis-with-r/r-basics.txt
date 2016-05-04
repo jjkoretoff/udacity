@@ -36,3 +36,32 @@ RStudio Layout
     scripts, consol, env/history
 
 Demistifying R
+    downloaded data sets
+    look through the lesson info
+    use swirl to learn the functionality
+
+Getting Help
+    ? shows the library
+        examples - copy and paste to see what happens
+    stackoverflow
+    quick-r
+    r cookbook
+    r-bloggers
+    stackoverflow about r
+    stackoverflow r faq
+    google's r style guide
+
+Read and subset data
+    in a .R file in the class folder
+    set working directory to wherever the data is
+        once uploaded - click on data in environment to see the table
+    subset and bracket method are both used to subset
+
+R Markdown Documents
+    installed knitr
+    rmd allows for more than r code and hashtags
+    r formatting that lets you format webpages
+    more info the the instructor notes
+    command + option + i adds chunks
+    insert r code, plots, etc
+    ** clicking knit html**
