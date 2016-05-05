@@ -66,3 +66,6 @@ R Markdown Documents
     insert r code, plots, etc
     ** clicking knit html**
     edits done to demistifying r part 2
+
+Looking at reddit survey
+    
