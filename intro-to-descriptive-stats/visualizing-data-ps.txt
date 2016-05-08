@@ -1,0 +1,38 @@
+Lesson 2 problem set
+(table in google drive for 1 thru 6)
+1. Blood types - 35 donations - frequency proportion, 
+    and percentage. Sigma = sum
+
+2. AB is the most rare blood type
+3. O is the most common blood type
+4. .37 is the proportion of Type A donors
+5. Guesstimate of Type O population blood type = 46%
+6. Analyze - guesstimate the .06 proportion  of population cannot donate blood to others
+7. n = 7901
+8. .03, 2.61, 50. 45 for the percentages
+9. 1981-90 is the most common decade for Uacity users
+10. Between 9 and 26% were born before 1975
+11. The oldest person is at least 90.
+12. Each bin is two years on the histogram
+13. The most common bin is 1990 - 1992
+14. Negatively skewed so most were born between 80 and 00
+15. Categorical data is on the x-axis
+16. THe height of each bar is a percentage
+17. As of 2011, facebook has penetrated more of latin america than any other market
+18. If data ranges from 15 to 105 and you want each bin to represent 10 numbers then you need 9 bins
+19. A frequency table is better for calculating n
+20. A histogram is better for identifying the shape of a data distribution
+21. 60 minutes is the most frequent commute time
+22. Approximately at least 40 people commute over 59 minutes
+23. The bin width is 2
+24. All employees commute over 20 minutes and most are 50-60 minutes
+25. As we make the bin size bigger, the frequency gets larger
+26. In a postive skew, scores with the lowest frequency distribution are on the right hand side. 
+27. To understand student performance on an exam where the class was split even above and below 75 percent, we look at the final exam score distribution to understand student performance. 
+28. a positive skew sees the median more to the left 
+29. y-axis represents frequency
+30. x-axis of a histogram should be numerical 
+31. a positive skew has more observations on the left
+32. a negative skew has more observations on the right and example of this could be a test where most students scored high as opposed to low
+33. a normal distribution is often symmetrical with the bulk of the observations landing in the middle of a histogram. many things are normally distributed such as economic prices 
+34. histograms are good for visualizing the shape of a distribution, frequency tables are good for calculating the total number in the sample/population, and you can alwasy create a histogram if you have a frequency table

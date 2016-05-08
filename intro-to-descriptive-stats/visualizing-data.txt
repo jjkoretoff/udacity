@@ -1,0 +1,41 @@
+Lesson 2
+
+Who takes udacity classes? 
+    people from all over the world
+    formalize the procedure
+
+Frequency table
+    count frequency table 
+
+Relative frequency
+    percent of observations for each variable in sample
+    all oproportions are always between or equal to 0 and 1
+
+
+    a frequency table should add to 1
+
+Set intervals
+    interval, bin, or bucket
+
+Visualizing data
+    graph creation
+        bars, lines, scatterplots, histogram, etc
+    x-axis, y-axis, origin
+
+histogram = http://www.shodor.org/interactivate/activities/Histogram/
+
+bins - how percise do you want to be
+    interval in which you count the frequency
+    sacrifice detail for conveinence 
+
+Histogram vs Bar graph
+    bar- separations show distinction, restricting, qual
+    his- separation shows lack of observation, order matters all the time, quant
+
+Histogram output observations
+    symmetries, height, length, 
+    normal distribution has one peak called a mode
+    positive skew - more values on left than right
+    
+
+

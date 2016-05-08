@@ -1,0 +1,97 @@
+Lesson 3 
+
+Which major should you chose based off of a histogram?
+    nursing major distribution narrower & higher than geo
+        nursing frequency is much higher than geo at mode
+
+How do you choose a number that accurately represents a typical salry?
+    highest frequency (mode), average (mean), and middle valuable (median) are all viable
+
+The Mode
+    the highest frequency value in a dataset
+    the mode can be identified as a single number
+    the mode can also be identified as a range of num
+
+Negative Skew Distribution
+    most observations are to the left of the mode
+
+Uniform Distribution
+    there is no mode if all values across the x-axis are equal
+
+Multiple modes
+    a data set can have two max frequencies
+    example: shoe size for both male and female
+
+The mode ALWAYS occurs on the x-axis and its frequencies are on the y-axis
+
+Finding the Mean
+    mean = xbar
+    xbar = sum of values / number of observations
+
+Procedure for finding the mean
+    sum the variable and divide by the number of observations
+
+Iterative Procedure
+    above
+
+Symbols
+    sum = sigma
+    variable being summed = x
+    number of observations = n
+
+    therefore, a sample procedure is
+        xbar = sigma(x)/ n
+
+    therefore, a population procedure is
+        mu = sigma(x)/N
+
+Properties of the mean
+    all scores in the distribution affect the mean
+    th emean can be described with a formula
+    many samples from the same population will have similar means
+    the mean of a sample can be used to make inferences about the population it came from
+    the mean will change if we add an extreme value
+
+Mean with an outlier
+    can cause the mean to be extremly misleading 
+    values that are unexpectedly different
+    must observe relationship between mean and median
+
+Median
+    the middle of the data
+    most easily found after the data is in order
+
+Median with an outlier
+    less movement will be caused by an outlier when compared to the mean
+    when you have an even number of observations, the median lies exactly between the point above and the point below the median
+
+The median is ROBUST
+    not affected much by departures from the mode
+
+Measures of the center
+    mean, median, and mode
+        all can be used and all have their strengths and weaknesses
+
+Measure of center change
+    positive skew: mode < median < mean
+        highest frequency < middle < average
+    normal distribution: mode = median = mean
+    negative skew: mode > median > mean
+
+Anaylzing Udacian Facebook friends
+    find the mean - 585
+    find the median - sort - 479
+        formula - 
+            even x(n/2)+x(n/2 + 1) / 2
+            odd x(n+1/2)
+
+Last quiz
+
+1. has simple equation - mean
+2. will always chanfe if data valye changes - mean
+3. not affected by change in bin size - mean & median
+4. not affected by outliers - median & mode
+5. easy to find on a histogram - mode
+
+
+

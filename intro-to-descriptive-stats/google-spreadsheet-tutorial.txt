@@ -1,0 +1,27 @@
+Tutorial
+
+spreadsheet tips 
+
+  file | download as | ""
+  data | sort by | ""
+  sigma sum | 
+
+deviations = xi - xbar = average population - average sample
+
+squared deviations = deviations ^ 2
+
+sum of squares = sum of all squared deviations
+
+variance population = sum of squares / n
+
+variance sample = sum of squares / n-1
+
+standard deviation = sigma = sqrt(variance)
+
+Methodology = 
+    take the average of the set called xi
+    subtract each individual item xbar from xi
+    square each individual item
+    add each item together for sum of squares
+    divide ss by n or n-1 to arive at variance sigma2
+    square root the varianve to arrive at sd sigma
